@@ -13,7 +13,10 @@ Pricing :
 > Download Sample APP 
 
 Contact us:
-Name: Shyam Mohan                                   
+
+Name: Shyam Mohan
+
 Email : shyam@codecrux.com  
+
 Mobile: 7073 707 707
 
